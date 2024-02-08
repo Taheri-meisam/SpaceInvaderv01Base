@@ -35,18 +35,3 @@ void AMyCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 
 
 
-int parent() {
-
-
-}
-
-int parent(int a){
-
-
-}
-
-int parent ( int a , int b) {
-
-
-}
-
