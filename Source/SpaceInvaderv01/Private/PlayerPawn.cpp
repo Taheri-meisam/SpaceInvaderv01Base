@@ -96,8 +96,6 @@ void APlayerPawn::SetupPlayerInputComponent(UInputComponent* PlayerInputComponen
 	}
 
 }
-
-UE_LOG()
 void APlayerPawn::ResetLocation() const
 {
 }
